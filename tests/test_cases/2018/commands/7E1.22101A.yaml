@@ -1,0 +1,23 @@
+command_id: 7E1.22101A
+test_cases:
+- expected_values:
+    AUDI_ODO_TCM_2: 23557
+  response: 7E90762101A055C0000
+- expected_values:
+    AUDI_ODO_TCM_2: 23563
+  response: 7E90762101A0B5C0000
+- expected_values:
+    AUDI_ODO_TCM_2: 23565
+  response: 7E90762101A0D5C0000
+- expected_values:
+    AUDI_ODO_TCM_2: 23578
+  response: 7E90762101A1A5C0000
+- expected_values:
+    AUDI_ODO_TCM_2: 23619
+  response: 7E90762101A435C0000
+- expected_values:
+    AUDI_ODO_TCM_2: 23620
+  response: 7E90762101A445C0000
+- expected_values:
+    AUDI_ODO_TCM_2: 23629
+  response: 7E90762101A4D5C0000
