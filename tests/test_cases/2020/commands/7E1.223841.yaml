@@ -1,0 +1,26 @@
+command_id: 7E1.223841
+test_cases:
+- expected_values:
+    AUDI_ODO_TCM_1: 752313
+  response: 7E907623841B97A0B00
+- expected_values:
+    AUDI_ODO_TCM_1: 752314
+  response: 7E907623841BA7A0B00
+- expected_values:
+    AUDI_ODO_TCM_1: 752315
+  response: 7E907623841BB7A0B00
+- expected_values:
+    AUDI_ODO_TCM_1: 752319
+  response: 7E907623841BF7A0B00
+- expected_values:
+    AUDI_ODO_TCM_1: 752324
+  response: 7E907623841C47A0B00
+- expected_values:
+    AUDI_ODO_TCM_1: 752328
+  response: 7E907623841C87A0B00
+- expected_values:
+    AUDI_ODO_TCM_1: 752342
+  response: 7E907623841D67A0B00
+- expected_values:
+    AUDI_ODO_TCM_1: 752345
+  response: 7E907623841D97A0B00
