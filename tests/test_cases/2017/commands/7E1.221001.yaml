@@ -1,0 +1,32 @@
+command_id: 7E1.221001
+test_cases:
+- expected_values:
+    AUDI_TIRE_FR_SPD_V3: 255
+  response: 7E9056210017C00
+- expected_values:
+    AUDI_TIRE_FR_SPD_V3: 255
+  response: 7E9056210017E00
+- expected_values:
+    AUDI_TIRE_FR_SPD_V3: 255
+  response: 7E9056210017F00
+- expected_values:
+    AUDI_TIRE_FR_SPD_V3: 255
+  response: '7E9056210018000'
+- expected_values:
+    AUDI_TIRE_FR_SPD_V3: 255
+  response: '7E9056210018100'
+- expected_values:
+    AUDI_TIRE_FR_SPD_V3: 255
+  response: '7E9056210018200'
+- expected_values:
+    AUDI_TIRE_FR_SPD_V3: 255
+  response: '7E9056210018600'
+- expected_values:
+    AUDI_TIRE_FR_SPD_V3: 255
+  response: 7E9056210018E00
+- expected_values:
+    AUDI_TIRE_FR_SPD_V3: 255
+  response: '7E9056210019300'
+- expected_values:
+    AUDI_TIRE_FR_SPD_V3: 255
+  response: '7E9056210019500'
