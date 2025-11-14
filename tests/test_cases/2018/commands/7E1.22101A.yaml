@@ -21,3 +21,9 @@ test_cases:
 - expected_values:
     AUDI_ODO_TCM_2: 23629
   response: 7E90762101A4D5C0000
+- expected_values:
+    AUDI_ODO_TCM_2: 24413
+  response: 7E90762101A5D5F0000
+- expected_values:
+    AUDI_ODO_TCM_2: 1048574
+  response: 7E90762101AFEFF0F00
