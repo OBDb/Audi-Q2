@@ -4,6 +4,9 @@ test_cases:
     AUDI_ODO_TCM_2_HD: 22558.5
   response: '7E90762388731710300'
 - expected_values:
+    AUDI_ODO_TCM_2_HD: 23303.1
+  response: 7E907623887478E0300
+- expected_values:
     AUDI_ODO_TCM_2_HD: 22490.2
   response: 7E907623887866E0300
 - expected_values:

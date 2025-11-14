@@ -1,0 +1,8 @@
+command_id: 710.222A61|fc=1
+test_cases:
+- expected_values:
+    AUDI_SSB_TOTAL_CHARGE: 0
+    AUDI_SSB_TOTAL_DISCHARGE: 0
+  response: |-
+    77A100B622A61000000
+    77A210000000000AAAA

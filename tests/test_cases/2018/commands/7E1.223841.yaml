@@ -1,32 +1,11 @@
 command_id: 7E1.223841
 test_cases:
 - expected_values:
-    AUDI_ODO_TCM_1: 233001
-  response: 7E907623841298E0300
-- expected_values:
-    AUDI_ODO_TCM_1: 232503
-  response: 7E907623841378C0300
+    AUDI_ODO_TCM_1: 240659
+  response: 7E90762384113AC0300
 - expected_values:
     AUDI_ODO_TCM_1: 232298
   response: 7E9076238416A8B0300
-- expected_values:
-    AUDI_ODO_TCM_1: 232352
-  response: 7E907623841A08B0300
-- expected_values:
-    AUDI_ODO_TCM_1: 232355
-  response: 7E907623841A38B0300
-- expected_values:
-    AUDI_ODO_TCM_1: 232356
-  response: 7E907623841A48B0300
-- expected_values:
-    AUDI_ODO_TCM_1: 232372
-  response: 7E907623841B48B0300
-- expected_values:
-    AUDI_ODO_TCM_1: 232374
-  response: 7E907623841B68B0300
-- expected_values:
-    AUDI_ODO_TCM_1: 232905
-  response: 7E907623841C98D0300
 - expected_values:
     AUDI_ODO_TCM_1: 232906
   response: 7E907623841CA8D0300
