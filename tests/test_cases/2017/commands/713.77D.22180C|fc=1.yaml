@@ -1,0 +1,11 @@
+command_id: 713.77D.22180C|fc=1
+test_cases:
+- expected_values:
+    AUDI_EDL_ACTIVE: 0
+    AUDI_EDL_FR_L_BRAKE_T: 61.5
+    AUDI_EDL_FR_R_BRAKE_T: 61.5
+    AUDI_EDL_RR_L_BRAKE_T: 62
+    AUDI_EDL_RR_R_BRAKE_T: 62
+  response: |-
+    77D100C62180CBD007B
+    77D21007B007C007CAA
