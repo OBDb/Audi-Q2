@@ -3,5 +3,20 @@ test_cases:
 - expected_values:
     AUDI_HYD_BRAKE_BOOST_ACTIVE: 0
   response: |-
+    77D100C621810010014
+    77D21FD5D0000022EAA
+- expected_values:
+    AUDI_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C6218100100E6
+    77D21FD3400000288AA
+- expected_values:
+    AUDI_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C6218100107F8
+    77D21FD48000002ACAA
+- expected_values:
+    AUDI_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
     77D100C6218100108B6
     77D21FD44000002ACAA
