@@ -1,0 +1,9 @@
+command_id: 713.77D.221816|fc=1
+test_cases:
+- expected_values:
+    AUDI_AIR_GAB_VACUUM_SNS: 0
+    AUDI_BRAKE_P_SNS: 22.4
+  response: |-
+    77D100E6218160108C0
+    77D21FFFFFFFFFD44FF
+    77D22FEAAAAAAAAAAAA
