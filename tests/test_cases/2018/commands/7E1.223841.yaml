@@ -1,11 +1,14 @@
 command_id: 7E1.223841
 test_cases:
 - expected_values:
+    AUDI_MQB_TCM_ODO: 33004006.4
     AUDI_ODO_TCM_1: 240659
   response: 7E90762384113AC0300
 - expected_values:
+    AUDI_MQB_TCM_ODO: 178749516.8
     AUDI_ODO_TCM_1: 232298
   response: 7E9076238416A8B0300
 - expected_values:
+    AUDI_MQB_TCM_ODO: 339823897.6
     AUDI_ODO_TCM_1: 232906
   response: 7E907623841CA8D0300
