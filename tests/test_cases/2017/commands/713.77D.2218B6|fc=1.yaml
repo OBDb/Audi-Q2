@@ -7,3 +7,10 @@ test_cases:
   response: |-
     77D10096218B60101FF
     77D21060000AAAAAAAA
+- expected_values:
+    AUDI_MQB_CSS_ACT: 0
+    AUDI_MQB_CSS_ODO_LAST: 1
+    AUDI_MQB_CSS_STR_TRQ: 0
+  response: |-
+    77D10096218B6010225
+    77D210A0000AAAAAAAA
