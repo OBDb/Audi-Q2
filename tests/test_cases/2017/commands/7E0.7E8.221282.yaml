@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221282
+test_cases:
+- expected_values:
+    AUDI_EXHAUST_GAS_T_BEFORE_CATALYST: 405.81
+  response: '7E8056212827523'
+- expected_values:
+    AUDI_EXHAUST_GAS_T_BEFORE_CATALYST: 412.73
+  response: 7E805621282767D
