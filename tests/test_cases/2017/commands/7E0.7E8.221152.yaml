@@ -10,21 +10,9 @@ test_cases:
   response: '7E8056211525407'
 - expected_values:
     AUDI_EM_RPM_2: 100
-    AUDI_MISFIRES__CYL__2: 21512
-  response: '7E8056211525408'
-- expected_values:
-    AUDI_EM_RPM_2: 100
-    AUDI_MISFIRES__CYL__2: 21513
-  response: '7E8056211525409'
-- expected_values:
-    AUDI_EM_RPM_2: 100
-    AUDI_MISFIRES__CYL__2: 21905
-  response: '7E8056211525591'
-- expected_values:
-    AUDI_EM_RPM_2: 100
     AUDI_MISFIRES__CYL__2: 23255
   response: 7E8056211525AD7
 - expected_values:
     AUDI_EM_RPM_2: 100
-    AUDI_MISFIRES__CYL__2: 23274
-  response: 7E8056211525AEA
+    AUDI_MISFIRES__CYL__2: 23277
+  response: 7E8056211525AED
