@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_MQB_TCM_HYBRID_T: 25641
   response: '7E90762119664290729'
+- expected_values:
+    AUDI_MQB_TCM_HYBRID_T: 26409
+  response: 7E90762119667290A29

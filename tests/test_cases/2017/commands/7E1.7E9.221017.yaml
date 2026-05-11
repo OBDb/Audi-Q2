@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     AUDI_PQ35_ROAD_RESISTANCE: -4.957
   response: 7E9046210176B
+- expected_values:
+    AUDI_PQ35_ROAD_RESISTANCE: -0.973
+  response: 7E9046210177B
+- expected_values:
+    AUDI_PQ35_ROAD_RESISTANCE: -0.475
+  response: 7E9046210177D
