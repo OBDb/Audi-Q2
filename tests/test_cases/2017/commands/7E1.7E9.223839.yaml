@@ -16,6 +16,12 @@ test_cases:
     AUDI_MQB_TCM_CLUTCH_2_ACTUAL_TORQUE: 27.95
   response: 7E9056238392F02
 - expected_values:
+    AUDI_MQB_TCM_CLUTCH_2_ACTUAL_TORQUE: 66.45
+  response: '7E9056238393105'
+- expected_values:
+    AUDI_MQB_TCM_CLUTCH_2_ACTUAL_TORQUE: 53.75
+  response: '7E9056238393304'
+- expected_values:
     AUDI_MQB_TCM_CLUTCH_2_ACTUAL_TORQUE: 20.3
   response: '7E9056238399601'
 - expected_values:
