@@ -1,6 +1,12 @@
 command_id: 7E1.7E9.2210EB
 test_cases:
 - expected_values:
+    AUDI_PQ35_CLUTCH_2_ADAPT_KISS_POINT_PART_1_ODO_READING: 140810
+  response: 7E9056210EB0137
+- expected_values:
+    AUDI_PQ35_CLUTCH_2_ADAPT_KISS_POINT_PART_1_ODO_READING: 140820
+  response: 7E9056210EB0237
+- expected_values:
     AUDI_PQ35_CLUTCH_2_ADAPT_KISS_POINT_PART_1_ODO_READING: 140670
   response: 7E9056210EBF336
 - expected_values:

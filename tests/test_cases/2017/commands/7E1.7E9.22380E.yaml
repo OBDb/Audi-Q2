@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     AUDI_MQB_OUTPUT_SHAFT_1: 377
   response: 7E90562380E7901
+- expected_values:
+    AUDI_MQB_OUTPUT_SHAFT_1: 379
+  response: 7E90562380E7B01
