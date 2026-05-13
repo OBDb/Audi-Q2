@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     AUDI_MQB_DQ250_SPECIFIED_TORQUE_CLUTCH_2: 19.3
   response: '7E9056238388201'
+- expected_values:
+    AUDI_MQB_DQ250_SPECIFIED_TORQUE_CLUTCH_2: 21
+  response: 7E905623838A401
