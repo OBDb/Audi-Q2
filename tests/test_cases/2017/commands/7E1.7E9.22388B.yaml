@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     AUDI_MQB_TCM_DRIVE_CYCLES_COUNTER: 3554
   response: 7E90562388BE20D
+- expected_values:
+    AUDI_MQB_TCM_DRIVE_CYCLES_COUNTER: 3555
+  response: 7E90562388BE30D
