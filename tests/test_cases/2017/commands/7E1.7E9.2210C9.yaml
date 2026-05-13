@@ -1,6 +1,12 @@
 command_id: 7E1.7E9.2210C9
 test_cases:
 - expected_values:
+    AUDI_PQ35_CLUTCH_1_SUCCESSFUL_ADAPTS_COUNTER: 61725
+  response: 7E9056210C91DF1
+- expected_values:
+    AUDI_PQ35_CLUTCH_1_SUCCESSFUL_ADAPTS_COUNTER: 61728
+  response: 7E9056210C920F1
+- expected_values:
     AUDI_PQ35_CLUTCH_1_SUCCESSFUL_ADAPTS_COUNTER: 61670
   response: 7E9056210C9E6F0
 - expected_values:
