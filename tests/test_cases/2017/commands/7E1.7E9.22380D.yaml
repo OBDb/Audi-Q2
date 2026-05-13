@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.22380D
 test_cases:
 - expected_values:
+    AUDI_MQB_INPUT_SHAFT_2: 0
+  response: 7E90562380D0000
+- expected_values:
     AUDI_MQB_INPUT_SHAFT_2: 1801
   response: 7E90562380D0907
 - expected_values:
@@ -9,3 +12,9 @@ test_cases:
 - expected_values:
     AUDI_MQB_INPUT_SHAFT_2: 1864
   response: 7E90562380D4807
+- expected_values:
+    AUDI_MQB_INPUT_SHAFT_2: 1413
+  response: 7E90562380D8505
+- expected_values:
+    AUDI_MQB_INPUT_SHAFT_2: 1248
+  response: 7E90562380DE004

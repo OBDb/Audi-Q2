@@ -1,6 +1,12 @@
 command_id: 7E1.7E9.2238AE
 test_cases:
 - expected_values:
+    AUDI_MQB_DQ200_CLUTCH_1_ADAPT_BASIC_CHARS_POINT_0_POS: 7.42
+  response: 7E9056238AEE602
+- expected_values:
+    AUDI_MQB_DQ200_CLUTCH_1_ADAPT_BASIC_CHARS_POINT_0_POS: 7.49
+  response: 7E9056238AEED02
+- expected_values:
     AUDI_MQB_DQ200_CLUTCH_1_ADAPT_BASIC_CHARS_POINT_0_POS: 7.5
   response: 7E9056238AEEE02
 - expected_values:
