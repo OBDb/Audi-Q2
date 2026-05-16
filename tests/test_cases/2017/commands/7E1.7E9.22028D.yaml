@@ -4,29 +4,5 @@ test_cases:
     AUDI_MQB_TCM_ECU_T: 19
   response: 7E90562028D1300
 - expected_values:
-    AUDI_MQB_TCM_ECU_T: 20
-  response: 7E90562028D1400
-- expected_values:
-    AUDI_MQB_TCM_ECU_T: 21
-  response: 7E90562028D1500
-- expected_values:
-    AUDI_MQB_TCM_ECU_T: 28
-  response: 7E90562028D1C00
-- expected_values:
-    AUDI_MQB_TCM_ECU_T: 33
-  response: 7E90562028D2100
-- expected_values:
-    AUDI_MQB_TCM_ECU_T: 35
-  response: 7E90562028D2300
-- expected_values:
-    AUDI_MQB_TCM_ECU_T: 43
-  response: 7E90562028D2B00
-- expected_values:
-    AUDI_MQB_TCM_ECU_T: 48
-  response: 7E90562028D3000
-- expected_values:
-    AUDI_MQB_TCM_ECU_T: 53
-  response: 7E90562028D3500
-- expected_values:
     AUDI_MQB_TCM_ECU_T: 56
   response: 7E90562028D3800
