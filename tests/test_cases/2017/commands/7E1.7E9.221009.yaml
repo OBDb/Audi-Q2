@@ -4,26 +4,8 @@ test_cases:
     AUDI_MQB_DQ250_SPD_OUTPUT: 0
   response: '7E9056210090000'
 - expected_values:
-    AUDI_MQB_DQ250_SPD_OUTPUT: 281
-  response: '7E9056210091901'
-- expected_values:
-    AUDI_MQB_DQ250_SPD_OUTPUT: 73
-  response: '7E9056210094900'
-- expected_values:
     AUDI_MQB_DQ250_SPD_OUTPUT: 591
   response: 7E9056210094F02
 - expected_values:
-    AUDI_MQB_DQ250_SPD_OUTPUT: 104
-  response: '7E9056210096800'
-- expected_values:
-    AUDI_MQB_DQ250_SPD_OUTPUT: 375
-  response: '7E9056210097701'
-- expected_values:
-    AUDI_MQB_DQ250_SPD_OUTPUT: 377
-  response: '7E9056210097901'
-- expected_values:
-    AUDI_MQB_DQ250_SPD_OUTPUT: 383
-  response: 7E9056210097F01
-- expected_values:
-    AUDI_MQB_DQ250_SPD_OUTPUT: 447
-  response: 7E905621009BF01
+    AUDI_MQB_DQ250_SPD_OUTPUT: 222
+  response: 7E905621009DE00

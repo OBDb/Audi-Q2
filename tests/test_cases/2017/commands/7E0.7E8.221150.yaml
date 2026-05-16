@@ -1,23 +1,14 @@
 command_id: 7E0.7E8.221150
 test_cases:
 - expected_values:
-    AUDI_MISFIRES_C3: 23001
-  response: 7E80562115059D9
-- expected_values:
-    AUDI_MISFIRES_C3: 23009
-  response: 7E80562115059E1
-- expected_values:
     AUDI_MISFIRES_C3: 23019
   response: 7E80562115059EB
-- expected_values:
-    AUDI_MISFIRES_C3: 23021
-  response: 7E80562115059ED
-- expected_values:
-    AUDI_MISFIRES_C3: 23022
-  response: 7E80562115059EE
 - expected_values:
     AUDI_MISFIRES_C3: 23024
   response: 7E80562115059F0
 - expected_values:
     AUDI_MISFIRES_C3: 23048
   response: 7E8056211505A08
+- expected_values:
+    AUDI_MISFIRES_C3: 23064
+  response: 7E8056211505A18
