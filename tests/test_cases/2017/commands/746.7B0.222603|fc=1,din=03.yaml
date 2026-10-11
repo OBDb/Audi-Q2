@@ -1,8 +1,8 @@
 command_id: 746.7B0.222603|fc=1,din=03
 test_cases:
 - expected_values:
-    AUDI_PQ35_AC_COMP_SPD: 1700
+    Q2_AC_COMPRESSOR_SPEED: 1700
   response: 7B00462260311
 - expected_values:
-    AUDI_PQ35_AC_COMP_SPD: 4800
+    Q2_AC_COMPRESSOR_SPEED: 4800
   response: 7B00462260330

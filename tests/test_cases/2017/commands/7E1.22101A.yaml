@@ -1,22 +1,17 @@
 command_id: 7E1.22101A
 test_cases:
 - expected_values:
-    AUDI_ODO_TCM_2: 128003
-    AUDI_PQ35_ODO_3: 259073
+    Q2_PQ35_ODO_3: 128003
   response: 7E90762101A03F40100
 - expected_values:
-    AUDI_ODO_TCM_2: 140819
-    AUDI_PQ35_ODO_3: 1254914
+    Q2_PQ35_ODO_3: 140819
   response: 7E90762101A13260200
 - expected_values:
-    AUDI_ODO_TCM_2: 130838
-    AUDI_PQ35_ODO_3: 1507073
+    Q2_PQ35_ODO_3: 130838
   response: 7E90762101A16FF0100
 - expected_values:
-    AUDI_ODO_TCM_2: 140581
-    AUDI_PQ35_ODO_3: 2434306
+    Q2_PQ35_ODO_3: 140581
   response: 7E90762101A25250200
 - expected_values:
-    AUDI_ODO_TCM_2: 141043
-    AUDI_PQ35_ODO_3: 15934978
+    Q2_PQ35_ODO_3: 141043
   response: 7E90762101AF3260200

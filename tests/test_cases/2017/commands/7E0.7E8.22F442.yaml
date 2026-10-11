@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F442
 test_cases:
 - expected_values:
-    AUDI_VPWR: 11.991
+    Q2_VPWR: 11.991
   response: 7E80562F4422ED7
 - expected_values:
-    AUDI_VPWR: 12.038
+    Q2_VPWR: 12.038
   response: 7E80562F4422F06
 - expected_values:
-    AUDI_VPWR: 14.583
+    Q2_VPWR: 14.583
   response: 7E80562F44238F7
 - expected_values:
-    AUDI_VPWR: 14.866
+    Q2_VPWR: 14.866
   response: 7E80562F4423A12

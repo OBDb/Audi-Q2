@@ -1,11 +1,11 @@
 command_id: 7E0.2215B8|din=03
 test_cases:
 - expected_values:
-    AUDI_MQB_DPF_DIFF_P_DYNAMIC_OFFSET: 2706
+    Q2_OIL_LEVEL_LAST: 10.824
   response: 7E8056215B80A92
 - expected_values:
-    AUDI_MQB_DPF_DIFF_P_DYNAMIC_OFFSET: 2773
+    Q2_OIL_LEVEL_LAST: 11.092
   response: 7E8056215B80AD5
 - expected_values:
-    AUDI_MQB_DPF_DIFF_P_DYNAMIC_OFFSET: 2858
+    Q2_OIL_LEVEL_LAST: 11.432
   response: 7E8056215B80B2A

@@ -1,26 +1,20 @@
 command_id: 7E0.2210E0
 test_cases:
 - expected_values:
-    AUDI_ODO_2: 128003
-    AUDI_ODO_V3: 128003
+    Q2_ODO: 128003
   response: 7E8076210E00001F403
 - expected_values:
-    AUDI_ODO_2: 128004
-    AUDI_ODO_V3: 128004
+    Q2_ODO: 128004
   response: 7E8076210E00001F404
 - expected_values:
-    AUDI_ODO_2: 130838
-    AUDI_ODO_V3: 130838
+    Q2_ODO: 130838
   response: 7E8076210E00001FF16
 - expected_values:
-    AUDI_ODO_2: 140581
-    AUDI_ODO_V3: 140581
+    Q2_ODO: 140581
   response: 7E8076210E000022525
 - expected_values:
-    AUDI_ODO_2: 140823
-    AUDI_ODO_V3: 140823
+    Q2_ODO: 140823
   response: 7E8076210E000022617
 - expected_values:
-    AUDI_ODO_2: 141043
-    AUDI_ODO_V3: 141043
+    Q2_ODO: 141043
   response: 7E8076210E0000226F3
