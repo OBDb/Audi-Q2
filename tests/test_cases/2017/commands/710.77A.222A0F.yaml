@@ -1,26 +1,26 @@
 command_id: 710.77A.222A0F
 test_cases:
 - expected_values:
-    AUDI_SSB_AH: 25
+    Q2_SSB_AH: 25
   response: 77A04622A0F19
 - expected_values:
-    AUDI_SSB_AH: 26
+    Q2_SSB_AH: 26
   response: 77A04622A0F1A
 - expected_values:
-    AUDI_SSB_AH: 27
+    Q2_SSB_AH: 27
   response: 77A04622A0F1B
 - expected_values:
-    AUDI_SSB_AH: 28
+    Q2_SSB_AH: 28
   response: 77A04622A0F1C
 - expected_values:
-    AUDI_SSB_AH: 29
+    Q2_SSB_AH: 29
   response: 77A04622A0F1D
 - expected_values:
-    AUDI_SSB_AH: 31
+    Q2_SSB_AH: 31
   response: 77A04622A0F1F
 - expected_values:
-    AUDI_SSB_AH: 32
+    Q2_SSB_AH: 32
   response: 77A04622A0F20
 - expected_values:
-    AUDI_SSB_AH: 35
+    Q2_SSB_AH: 35
   response: 77A04622A0F23

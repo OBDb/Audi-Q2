@@ -1,23 +1,23 @@
 command_id: 7E1.221001
 test_cases:
 - expected_values:
-    AUDI_TIRE_FR_SPD_V3: 255
+    Q2_TCM_1001_RAW: 118
   response: '7E9056210017600'
 - expected_values:
-    AUDI_TIRE_FR_SPD_V3: 255
+    Q2_TCM_1001_RAW: 137
   response: '7E9056210018900'
 - expected_values:
-    AUDI_TIRE_FR_SPD_V3: 255
+    Q2_TCM_1001_RAW: 142
   response: 7E9056210018E00
 - expected_values:
-    AUDI_TIRE_FR_SPD_V3: 255
+    Q2_TCM_1001_RAW: 143
   response: 7E9056210018F00
 - expected_values:
-    AUDI_TIRE_FR_SPD_V3: 255
+    Q2_TCM_1001_RAW: 144
   response: '7E9056210019000'
 - expected_values:
-    AUDI_TIRE_FR_SPD_V3: 255
+    Q2_TCM_1001_RAW: 145
   response: '7E9056210019100'
 - expected_values:
-    AUDI_TIRE_FR_SPD_V3: 255
+    Q2_TCM_1001_RAW: 146
   response: '7E9056210019200'
