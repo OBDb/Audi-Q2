@@ -1,11 +1,11 @@
 command_id: 7E1.223841
 test_cases:
 - expected_values:
-    Q2_ODO_V1: 33004006.4
+    Q2_ODO_V1: 24065.9
   response: 7E90762384113AC0300
 - expected_values:
-    Q2_ODO_V1: 178749516.8
+    Q2_ODO_V1: 23229.8
   response: 7E9076238416A8B0300
 - expected_values:
-    Q2_ODO_V1: 339823897.6
+    Q2_ODO_V1: 23290.6
   response: 7E907623841CA8D0300

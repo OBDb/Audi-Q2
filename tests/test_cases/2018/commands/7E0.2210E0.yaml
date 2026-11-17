@@ -4,5 +4,8 @@ test_cases:
     Q2_ODO: 23557
   response: 7E8076210E000005C05
 - expected_values:
-    Q2_ODO: 4000000000
+    Q2_ODO: 24413
+  response: 7E8076210E000005F5D
+- expected_values:
+    Q2_ODO: null
   response: 7E8076210E0FFFFFFFF
